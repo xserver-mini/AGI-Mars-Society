@@ -1,5 +1,3 @@
----
-
 # Mars Will Host Humanity’s First AGI Co-Governed Society
 
 > **Subtitle: As Earth’s institutions face critical bottlenecks, Mars may become the starting point for intelligent collaboration and logical civilization.**
