@@ -193,15 +193,6 @@ Then you will understand:
 > Is not just a technical stack,
 > But a new experiment on “how to reorganize human society.”
 
----
-
-## 📌 Next Steps
-
-* ✅ Publish on Medium / Mirror / GitHub Pages;
-* ✅ Include structural diagrams, concept sketches, institutional model visuals (I can assist);
-* ✅ Write a Mars society whitepaper: *AGI Mars OS v0.1*;
-* ✅ Build a GitHub repo to release institutional module code drafts;
-* ✅ Launch a virtual project: “Mars Co-Governance Society Prototype.”
 
 ---
 
